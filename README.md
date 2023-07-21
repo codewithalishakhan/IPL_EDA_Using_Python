@@ -11,5 +11,6 @@ I am not the greatest cricket fan out there but I enjoy cricket as much as the n
  </p>
 
 
-
- <img src="https://media.tenor.com/i0CUD4iVW_8AAAAi/cricket-game-game.gif"/>
+ <p align="left">
+ <img src="https://media3.giphy.com/media/Y2bg1nXckj3246iCuP/giphy.gif?cid=6c09b952bs5h1o97qiyqan0y8quvqorn4q4092vwoo1gdm4z&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=swidth="400px" height="250px">
+ </p>
