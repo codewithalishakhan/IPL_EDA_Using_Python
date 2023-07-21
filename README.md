@@ -9,3 +9,7 @@ I am not the greatest cricket fan out there but I enjoy cricket as much as the n
  <p align="center">
  <img src="https://github.com/codewithalishakhan/IPL_EDA_Using_Python/assets/109518128/0788e1da-25e0-4792-97dc-806af0607a90)" height="320" width="500px" />
  </p>
+
+
+
+ <img src="https://media.tenor.com/i0CUD4iVW_8AAAAi/cricket-game-game.gif"/>
