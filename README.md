@@ -1,7 +1,7 @@
  <p align="left">
  <img src="https://media3.giphy.com/media/Y2bg1nXckj3246iCuP/giphy.gif?cid=6c09b952bs5h1o97qiyqan0y8quvqorn4q4092vwoo1gdm4z&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=swidth="50px" height="50px">
- </p>   IPL_EDA_Using_Python
-
+ </p>   <h1>IPL_EDA_Using_Python
+</h1>
 Exploratory Analysis of IPL Data Using Python.
 
 
