@@ -6,5 +6,5 @@ Indian Premier League(IPL) is a professional Twenty20 cricket league in India co
 
 I am not the greatest cricket fan out there but I enjoy cricket as much as the next guy.
 
-![image](https://github.com/codewithalishakhan/IPL_EDA_Using_Python/assets/109518128/0788e1da-25e0-4792-97dc-806af0607a90)
+ <img src=![image](https://github.com/codewithalishakhan/IPL_EDA_Using_Python/assets/109518128/0788e1da-25e0-4792-97dc-806af0607a90)height=100>
 
