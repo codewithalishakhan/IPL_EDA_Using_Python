@@ -31,13 +31,13 @@ I am not the greatest cricket fan out there but I enjoy cricket as much as the n
 
 # <img src="https://media2.giphy.com/media/YjQk70gmQLDmJTawn0/giphy.gif?cid=6c09b952xaer02w992bk0htawwbmvmqir5fyf338xab2n9jp&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="60">**Screenshot**
 
-<img src=https://github.com/codewithalishakhan/IPL_EDA_Using_Python/assets/109518128/da06d6b6-8328-41b7-8288-0e829c500bac height=300>
+<img src="https://github.com/codewithalishakhan/Covid_Analysis/assets/109518128/323f7431-66b3-4d29-97ee-2c3fc8c2cc29" height=300>
 
-<img src=https://github.com/codewithalishakhan/IPL_EDA_Using_Python/assets/109518128/5774d59d-cca4-428c-8c08-e678f85201af height=250>
+<img src="https://github.com/codewithalishakhan/Covid_Analysis/assets/109518128/05b4c234-1ab6-4ccd-bc81-b125075b49f9" height=250>
 
-<img src=https://github.com/codewithalishakhan/IPL_EDA_Using_Python/assets/109518128/3994c89b-5305-429a-97a0-f6747a064fa2 height=250>
+<img src="https://github.com/codewithalishakhan/Covid_Analysis/assets/109518128/a710e8c5-b0b2-405e-b492-8388d52df07a" height=250>
 
-<img src=https://github.com/codewithalishakhan/IPL_EDA_Using_Python/assets/109518128/7ece449c-3de9-4823-980a-fe90b97a040c height=250>
+<img src="https://github.com/codewithalishakhan/Covid_Analysis/assets/109518128/62311a0b-4f2b-4dd9-9070-89dd3d37854c" height=250>
 
 
 
